@@ -23,6 +23,14 @@ function App() {
         >
           Youtube
         </a>
+        <a
+          className="App-link"
+          href="https://www.netflix.com/browse"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Netflix
+        </a>
       </header>
     </div>
   );
